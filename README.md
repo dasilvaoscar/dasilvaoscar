@@ -19,9 +19,9 @@
 
 
 - 🔭 Hoje trabalho na **QuiteJá**
-- 🌱 Minhas técnologias vaforitas são ... **TypeScript and VueJS**
-- 😄 Empregos ... **Estou aberto para conversar**
-- ⚡ Hobbie ... **Minhas maiores diversões são Jogar e codar**❤
+- 🌱 Minhas técnologias favoritas são **TypeScript and VueJS**
+- 😄 Empregos **Estou aberto para conversar**
+- ⚡ Hobbies **Minhas maiores diversões são Jogar e codar**❤
 - 📫 Como me encontrar **oscarkaka222@gmail.com ou (47) 98874-3841**
 
 <h4>Linguagens de Programação: </h4>

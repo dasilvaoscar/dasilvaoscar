@@ -5,7 +5,7 @@
 </kbd></p> 
 
 <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/dasilvaoscar/">
+   <a href="https://www.linkedin.com/in/dasilvaoscar/" target="_blank">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">
   </a>
 </p>

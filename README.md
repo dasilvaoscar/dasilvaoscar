@@ -1,4 +1,3 @@
-<p>Bem vindo</p>
 
 <p style="text-align:center"><kbd style="font-size: 2em; background: black; color: white; height:40px; border-color:black; ">
   <fonts style="position: relative; bottom:-1rem">OscarDaSilva<span style="color: #35ae35;">~$ </span><span style="color: teal;">./</span><span class="dirname">QuemSouEu</span>
@@ -20,9 +19,9 @@
 
 - 🔭 Hoje trabalho na **QuiteJá**
 - 🌱 Minhas técnologias favoritas são **TypeScript and VueJS**
-- 😄 Empregos **Estou aberto para conversar**
-- ⚡ Hobbies **Minhas maiores diversões são Jogar e codar**❤
-- 📫 Como me encontrar **oscarkaka222@gmail.com ou (47) 98874-3841**
+- 😄 Sobre empregos: **Estou aberto para conversar**
+- ⚡ Hobbies: **Minhas maiores diversões são Jogar e codar**❤
+- 📫 Como me encontrar: **oscarkaka222@gmail.com ou (47) 98874-3841**
 
 <h4>Linguagens de Programação: </h4>
 <p align="left">

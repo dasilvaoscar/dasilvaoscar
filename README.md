@@ -14,7 +14,7 @@
 <h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software.</h3>
 
 
-<img width="50%" align="right" alt="Image" src="https://image.pngaaa.com/405/1285405-middle.png" />
+<img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
 
 
 - 🔭 Hoje trabalho na **QuiteJá**

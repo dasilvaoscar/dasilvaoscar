@@ -5,7 +5,7 @@
 </kbd></p> 
 
 <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/dasilvaoscar/" target="_blank">
+   <a href="https://www.linkedin.com/in/dasilvaoscar/">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">
   </a>
 </p>
@@ -14,7 +14,7 @@
 <h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software.</h3>
 
 
-<img width="50%" align="right" alt="Github Image" src="https://static.wikia.nocookie.net/p__/images/7/73/Scar_%28Fullmetal_Alchemist%29.png/revision/latest?cb=20200403215543&path-prefix=protagonist" />
+<img width="50%" align="right" alt="Image" src="https://image.pngaaa.com/405/1285405-middle.png" />
 
 
 - 🔭 Hoje trabalho na **QuiteJá**

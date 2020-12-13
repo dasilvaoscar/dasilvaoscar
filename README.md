@@ -14,7 +14,7 @@
 <h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software.</h3>
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://i.pinimg.com/564x/92/81/87/92818723ae57f1f5785b94835249ba6b.jpg" />
 
 
 - 🔭 Hoje trabalho na **QuiteJá**

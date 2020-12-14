@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<code><h4>👨🏾‍💻 - Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias</h4></code>
+<code>👨🏾‍💻 - Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias</code>
 
-<code><h4>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software</h4></code>
+<code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software</code>
 
 <br/>
 

@@ -1,3 +1,6 @@
+# Iaew, Dev e Recrutadores! 👋
+
+
 
 <p style="text-align:center"><kbd style="font-size: 2em; background: black; color: white; height:40px; border-color:black; ">
   <fonts style="position: relative; bottom:-1rem">OscarDaSilva<span style="color: #35ae35;">~$ </span><span style="color: teal;">./</span><span class="dirname">QuemSouEu</span>
@@ -10,9 +13,11 @@
   </a>
 </p>
 
-<h3 align="center">Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias.</h3>
-<h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software.</h3>
+<code>👨🏾‍💻 - Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias</code>
 
+<code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software</code>
+
+<br/>
 
 <img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
 

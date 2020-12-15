@@ -70,4 +70,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarsilvaofficial)](https://github.com/oscarsilvaofficial/github-readme-stats)
+
+
 

@@ -72,4 +72,4 @@
 </p>
 
 [![OscarSilvaOfficial github stats](https://github-readme-stats.vercel.app/api?username=oscarsilvaofficial)](https://github.com/oscarsilvaofficial/github-readme-stats)
-[![OscarSilvaOfficial github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsilvaofficial&&hide=cmake,HTML&langs_count=9&line_height=35&theme=dark&layout=compact)](https://keybase.io/OscarSilvaOfficials)
+

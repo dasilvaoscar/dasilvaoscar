@@ -71,7 +71,9 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
+<div>
 [![OscarSilvaOfficial github stats](https://github-readme-stats.vercel.app/api?username=oscarsilvaofficial)](https://github.com/oscarsilvaofficial/github-readme-stats)
+</div>
+<div>
 [![OscarSilvaOfficial github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsilvaofficial&&hide=cmake,HTML,perl,PostScript&langs_count=9&line_height=35&theme=dark&layout=compact)](https://keybase.io/OscarSilvaOfficial)
-
-
+</div>

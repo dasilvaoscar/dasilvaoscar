@@ -72,4 +72,3 @@
 </p>
 
 ![Oscar da Silva](https://github-readme-stats.vercel.app/api?username=OscarSilvaOfficial&show_icons=true&theme=cobalt)
-

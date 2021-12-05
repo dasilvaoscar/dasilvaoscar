@@ -23,7 +23,7 @@
 
 
 - 🔭 Hoje trabalho na **QuiteJá**
-- 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS, SASS**
+- 🌱 Minhas técnologias favoritas são **Python, Typescript e VueJS**
 - ⚡ Hobbies: **Minhas maiores diversões são Jogar e programar**❤
 - 📫 Como me encontrar: **oscarkaka222@gmail.com ou (47) 98874-3841**
 
@@ -58,6 +58,7 @@
   <img style="margin: auto;" src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" alt=rabbitmq width="60" height="60"/>
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt=redis width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt=kafka width="40" height="50"/>
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt=kafka width="60" height="50"/>
 </p>
 
 <h4>Ferramentas de Dev: </h4>

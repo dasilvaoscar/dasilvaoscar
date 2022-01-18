@@ -25,7 +25,7 @@
 - 🔭 Hoje trabalho na **QuiteJá**
 - 🌱 Minhas técnologias favoritas são **Python, Typescript e VueJS**
 - ⚡ Hobbies: **Minhas maiores diversões são Jogar e programar**❤
-- 📫 Como me encontrar: **oscarkaka222@gmail.com ou (47) 98874-3841**
+- 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**
 
 <h4>Linguagens de Programação: </h4>
 <p align="left">

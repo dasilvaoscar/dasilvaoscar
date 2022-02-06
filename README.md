@@ -1,12 +1,5 @@
 # Iaew, Dev e Recrutadores! 👋
 
-
-
-<p style="text-align:center"><kbd style="font-size: 2em; background: black; color: white; height:40px; border-color:black; ">
-  <fonts style="position: relative; bottom:-1rem">OscarDaSilva<span style="color: #35ae35;">~$ </span><span style="color: teal;">./</span><span class="dirname">QuemSouEu</span>
-  </fonts>
-</kbd></p> 
-
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/dasilvaoscar/">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">

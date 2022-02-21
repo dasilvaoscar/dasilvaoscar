@@ -1,4 +1,4 @@
-# Iaew, Dev e Recrutadores! 👋
+# Iaew, Devs e Recrutadores! 👋
 
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/dasilvaoscar/">

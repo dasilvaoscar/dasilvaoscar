@@ -25,6 +25,7 @@
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt=Ts width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png" alt=Js width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="golang" width="60" height="60"/>
 </p>
 
 <h4>FrameWorks, Libs e etc...: </h4>

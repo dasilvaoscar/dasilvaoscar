@@ -15,7 +15,7 @@
 <img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
 
 
-- 🔭 Hoje trabalho na **QuiteJá**
+- 🔭 Hoje trabalho na **SouthSystem**
 - 🌱 Minhas técnologias favoritas são **Python, Typescript e VueJS**
 - ⚡ Hobbies: **Minhas maiores diversões são Jogar e programar**❤
 - 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**

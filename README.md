@@ -1,16 +1,11 @@
 # Iaew, Devs e Recrutadores! 👋
 
-<p align="center"><br/>
-   <a href="https://www.linkedin.com/in/dasilvaoscar/">
-    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">
-  </a>
-</p>
-
 <code>👨🏾‍💻 - Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias</code>
 
 <code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software</code>
-
 <br/>
+
+#
 
 <img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
 

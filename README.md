@@ -2,7 +2,7 @@
 
 <code>👨🏾‍💻 - Sou desenvolvedor FullStack e apaixonado por programação e novas técnologias</code>
 
-<code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software</code>
+<code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software pela FIAP</code>
 <br/>
 
 #

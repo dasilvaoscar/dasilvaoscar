@@ -58,5 +58,3 @@
   <img style="margin: auto;" src="https://cdn.onsloth.com/data/images/logo/mintlogo-color.svg" alt=mint width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
-
-![Snake animation](https://github.com/OscarSilvaOfficial/OscarSilvaOfficial/blob/output/github-contribution-grid-snake.svg)

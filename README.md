@@ -11,7 +11,7 @@
 
 
 - 🔭 Hoje trabalho na **SouthSystem**
-- 🌱 Minhas técnologias favoritas são **Python, Typescript e VueJS**
+- 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
 - 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**
 
 <h4>Linguagens de Programação: </h4>

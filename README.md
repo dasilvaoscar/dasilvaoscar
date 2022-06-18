@@ -1,18 +1,18 @@
 # Iaew, Devs e Recrutadores! 👋
 
-> 👨🏾‍💻 - Sou **Engenheiro de Software** aqui no Brasil e apaixonado por programação e novas técnologias
+> 👨🏾‍💻 - Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias
 
 > 👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software pela FIAP
+
+> 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
+
+> 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**
+
 <br/>
 
 <img src="https://aelaschool.com/wp-content/uploads/2022/04/ExtremeProgrammingeoDesenvolvimentogildeSoftwares_Prancheta1_d2bb0588e18421cdf21219b2d7efa17a_2000-995x520.png"  />
 
 <img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
-
-
-- 🔭 Hoje trabalho na **SouthSystem**
-- 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
-- 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**
 
 <h3 align="left">Me adiciona no Linkedin:</h3>
 <p align="left">

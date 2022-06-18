@@ -5,7 +5,7 @@
 <code>👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software pela FIAP</code>
 <br/>
 
-#
+<img src="https://aelaschool.com/wp-content/uploads/2022/04/ExtremeProgrammingeoDesenvolvimentogildeSoftwares_Prancheta1_d2bb0588e18421cdf21219b2d7efa17a_2000-995x520.png"  />
 
 <img width="50%" align="right" alt="Image" src="https://static.wikia.nocookie.net/vsbattles/images/a/a7/Scar_Render.png/revision/latest?cb=20181130094253" />
 

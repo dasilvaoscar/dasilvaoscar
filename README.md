@@ -1,4 +1,4 @@
-# Iaew, Devs e Recrutadores! 👋
+# Iaew, Devs 👋
 
 > 👨🏾‍💻 - Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias
 

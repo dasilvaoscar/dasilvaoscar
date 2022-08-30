@@ -1,8 +1,8 @@
 # Iaew, Devs 👋
 
-> 👨🏾‍💻 - Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias
+> 👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias
 
-> 👨🏾‍🎓 - Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software pela FIAP
+> 👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e estou me Pós-Graduando em Engenharia de Software pela FIAP
 
 > 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
 

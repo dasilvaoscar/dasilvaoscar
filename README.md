@@ -6,7 +6,7 @@
 
 > 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
 
-> 📫 Como me encontrar: **oscarkaka222@gmail.com ou (41) 98874-3841**
+> 📫 Como me encontrar: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar/)
 
 <br/>
 

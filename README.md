@@ -1,12 +1,12 @@
 # Iaew, Devs 👋
 
-> 👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias
+👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias.
 
-> 👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software pela FIAP
+👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software pela FIAP.
 
-> 🌱 Minhas técnologias favoritas são **Python, Typescript, VueJS e ReactJS**
+🌱 Minhas técnologias favoritas são **Python, Typescript, NodeJS**.
 
-> 📫 Como me encontrar: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar/)
+📫 Como me encontrar: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar).
 
 <br/>
 

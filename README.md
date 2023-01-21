@@ -12,12 +12,12 @@
 
 <img src="https://aelaschool.com/wp-content/uploads/2022/04/ExtremeProgrammingeoDesenvolvimentogildeSoftwares_Prancheta1_d2bb0588e18421cdf21219b2d7efa17a_2000-995x520.png"  />
 
-<h3 align="left">Me adiciona no Linkedin:</h3>
+<!-- <h3 align="left">Me adiciona no Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasilvaoscar" height="30" width="40" /></a>
 </p>
 
-<!-- <h3>Linguagens de Programação: </h3>
+<h3>Linguagens de Programação: </h3>
 <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt=Ts width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png" alt=Js width="60" height="60"/>

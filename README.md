@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação e novas técnologias.
 
-👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software pela FIAP.
+👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Desenvolvimento Fullstack pela FIAP.
 
 🌱 Minhas técnologias favoritas são **Python, Typescript, NodeJS**.
 

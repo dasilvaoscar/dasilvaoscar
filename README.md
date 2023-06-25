@@ -1,6 +1,6 @@
 # Iaew, Devs 👋
 
-👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação 
+👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação.
 
 🧑‍💼 Participar ativamente do negócio, entende-lo e ajudar a melhora-lo com entrega de valor através da técnologia é uma paixão.
 
@@ -8,7 +8,7 @@
 
 🌱 Minhas técnologias favoritas são **Python, Typescript, NodeJS**.
 
-📫 Como me encontrar: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar).
+📫 Como me encontrar: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar)
 
 <br/>
 

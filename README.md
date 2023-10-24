@@ -4,7 +4,7 @@
 
 🧑‍💼 Participar ativamente do negócio, entende-lo e ajudar a melhora-lo com entrega de valor através da técnologia é uma paixão.
 
-👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Desenvolvimento Fullstack pela FIAP.
+👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Desenvolvimento de Software pela FIAP.
 
 🌱 Minhas técnologias favoritas são **Python, Typescript, NodeJS**.
 

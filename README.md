@@ -1,7 +1,5 @@
 # Iaew, Devs 👋
 
-👨🏾‍💻 Sou **Engenheiro de Software** na **Tera** e apaixonado por programação.
-
 🧑‍💼 Participar ativamente do negócio, entende-lo e ajudar a melhora-lo com entrega de valor através da técnologia.
 
 👨🏾‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Desenvolvimento de Software pela FIAP.

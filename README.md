@@ -1,4 +1,6 @@
-# Iaew, Devs 👋
+# Oi , eu sou Oscar👋
+
+### Sobre mim
 
 🧑‍💼 Participar ativamente do negócio, entende-lo e ajudar a melhora-lo com entrega de valor através da técnologia.
 

@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- <h3 align="left">Me adiciona no Linkedin:</h3>
+<h3 align="left">Me adiciona no Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasilvaoscar" height="30" width="40" /></a>
 </p>
@@ -30,4 +30,4 @@
 <div style="display: flex">
  <img src="https://github-readme-stats.vercel.app/api?username=oscarsilvaofficial&show_icons=true&locale=en" alt="oscarsilvaofficial" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarsilvaofficial&" alt="oscarsilvaofficial" />
-</div> -->
+</div>

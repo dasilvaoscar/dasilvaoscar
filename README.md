@@ -1,5 +1,5 @@
 # Hi, I’m Oscar👋
-## About me
+### About me
 
 🧑‍💼 Actively participating in the business, understanding it, and helping to improve it by delivering value through technology.
 
@@ -9,14 +9,12 @@
 
 📫 How to find me: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar)
 
-<br/>
-
-<h3 align="left">Add me on Linkedin:</h3>
+### Add me on Linkedin
 <p align="left">
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasilvaoscar" height="30" width="40" /></a>
 </p>
 
-<h3>Programming Languages:</h3>
+### Programming Languages
 <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt=Ts width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png" alt=Js width="60" height="60"/>

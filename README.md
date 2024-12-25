@@ -5,7 +5,7 @@
 
 👨🏾‍🎓 I hold a degree in Systems Analysis and Development and a Postgraduate degree in Software Engineering from FIAP.
 
-🌱 My main stack is **Python, TypeScript, Node.js, Vue.js, Next.js, React, GCP and AWS**. But as a software engineer, I learn any technology 
+🌱 My main stack is **TypeScript, Node.js, GCP and AWS**. But as a software engineer, I learn any technology 
 
 📫 How to find me: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar)
 

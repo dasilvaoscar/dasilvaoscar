@@ -3,7 +3,7 @@
 
 🧑‍💼 Actively participating in the business, understanding it, and helping to improve it by delivering value through technology.
 
-👨🏾‍🎓 I hold a degree in Systems Analysis and Development and a Postgraduate degree in Software Engineering by FIAP and Postgraduate degree in Software Architecture by PUC-PR.
+👨🏾‍🎓 I hold a degree in Systems Analysis and Development, Postgraduate degree in Software Engineering by FIAP and Postgraduate degree in Software Architecture by PUC-PR.
 
 🌱 My main stack is **Golang, Node.js, GCP and AWS**. But as a software engineer, I learn any technology 
 

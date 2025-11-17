@@ -21,6 +21,10 @@
  <img style="margin: auto;" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="80" height="80"/>
 </p>
 
+<p align="left">
+  <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=dasilvaoscar&theme=dracula&layout=compact&border_color=599200&langs_count=6">
+</p>
+
 ### Cloud
 <p align="left"> 
   <img src="https://i.pinimg.com/originals/4a/41/7d/4a417d1f8cab870d4e93498ae1ae2d21.png" alt="amplify" width="80" height="80"/>

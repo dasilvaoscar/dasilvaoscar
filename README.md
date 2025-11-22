@@ -15,13 +15,11 @@
 </p>
 
 ### Programming Languages
-<p align="left">
+<!-- <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS" width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="60" height="60"/>
  <img style="margin: auto;" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="80" height="80"/>
-</p>
-
-#### Stats
+</p> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasilvaoscar&layout=compact&hide=HTML,CSS,SCSS,Less,jupyter%20notebook&theme=calm&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cloud

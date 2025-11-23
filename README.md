@@ -1,13 +1,13 @@
 # Hi, I’m Oscar👋
 ### About me
 
-🧑‍💼 Actively participating in the business, understanding it, and helping to improve it by delivering value through technology.
+Actively participating in the business, understanding it, and helping to improve it by delivering value through technology.
 
-👨🏾‍🎓 I hold a degree in **Systems Analysis**, MBA degree in **Full-Stack Software Engineering** by FIAP and Postgraduate degree in **Software Architecture** by PUC-PR.
+### Degree
 
-🌱 My main stack is **Golang, Node.js and AWS**. But as a software engineer, I learn any technology 
-
-📫 How to find me: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar)
+* Graduation in **Systems Analysis**.
+* MBA degree in **Full-Stack Software Engineering** by FIAP.
+* Post graduation degree in **Software Architecture** by PUC-PR..
 
 ### Add me on Linkedin
 <p align="left">

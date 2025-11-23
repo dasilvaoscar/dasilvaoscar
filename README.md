@@ -5,7 +5,7 @@
 
 👨🏾‍🎓 I hold a degree in **Systems Analysis**, MBA degree in **Full-Stack Software Engineering** by FIAP and Postgraduate degree in **Software Architecture** by PUC-PR.
 
-🌱 My main stack is **Golang, Node.js, GCP and AWS**. But as a software engineer, I learn any technology 
+🌱 My main stack is **Golang, Node.js and AWS**. But as a software engineer, I learn any technology 
 
 📫 How to find me: [@Oscar da Silva](https://www.linkedin.com/in/dasilvaoscar)
 

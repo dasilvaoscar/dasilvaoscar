@@ -1,4 +1,4 @@
-# Hi, I’m Oscar👋
+# Hi, I’m Oscar <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a>
 
 ### About me
 
@@ -7,14 +7,14 @@ Writing code is wonderful, but architecting software and feeling the evolution o
 
 ### Degree
 
-* Graduation in **Systems Analysis**.
+* Graduation in **Systems Analysis** by Uninter.
 * MBA degree in **Full-Stack Software Engineering** by FIAP.
-* Post graduation degree in **Software Architecture** by PUC-PR..
+* Post graduation degree in **Software Architecture** by PUC-PR.
 
-### Add me on Linkedin
+<!-- ### Add me on Linkedin
 <p align="left">
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="40" width="40" /></a>
-</p>
+</p> -->
 
 ### Programming Languages
 <!-- <p align="left">

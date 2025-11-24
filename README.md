@@ -3,7 +3,7 @@
 ### About me
 
 I actively participate in the business, understanding it, and helping to improve it by delivering value through technology.
-Writing code is wonderful, but architecting software and feeling the evolution of the teams I'm in contact with is what I really love
+Writing code is wonderful, but architecting software and feeling the evolution of the teams I'm in contact with is what I really love.
 
 ### Degree
 

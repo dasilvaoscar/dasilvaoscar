@@ -33,11 +33,11 @@ Writing code is wonderful but architecting software and feeling the evolution of
 ## Let's have a chat
 
 <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/512px-Google_Meet_icon_%282020%29.svg.png" alt="dasilvaoscar" height="80" width="80" /> 
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/512px-Google_Meet_icon_%282020%29.svg.png" alt="dasilvaoscar" height="60" width="60" /> 
 </a>
 
 <a href="https://linkedin.com/in/dasilvaoscar" target="_blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="80" width="80" /> 
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="60" width="60" /> 
 </a>
 
 

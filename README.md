@@ -1,11 +1,11 @@
 # Hi, I’m Oscar <a href="https://linkedin.com/in/dasilvaoscar" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a>
 
-## About me
+## 🫆 About me
 
 I actively participate in the business understanding it and helping to improve it by delivering value through technology.
 Writing code is wonderful but architect software and feel the evolution of the teams that I'm in contact with is what I really love.
 
-## Degree
+## 👨🏽‍🎓 Degree
 
 * Graduation in **Systems Analysis** by Uninter.
 * MBA degree in **Full-Stack Software Engineering** by FIAP.
@@ -16,7 +16,7 @@ Writing code is wonderful but architect software and feel the evolution of the t
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="40" width="40" /></a>
 </p> -->
 
-## Programming Languages
+## 🔷 Programming Languages
 <!-- <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS" width="60" height="60"/>
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="60" height="60"/>
@@ -24,13 +24,13 @@ Writing code is wonderful but architect software and feel the evolution of the t
 </p> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasilvaoscar&layout=compact&hide=HTML,CSS,SCSS,Less,jupyter%20notebook&theme=calm&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-## Cloud
+## ☁️ Cloud
 
 <p align="left"> 
   <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="amplify" width="80" height="80"/>
 </p>
 
-## Let's have a chat
+## 🗣️ Let's have a chat
 
 <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/512px-Google_Meet_icon_%282020%29.svg.png" alt="dasilvaoscar" height="60" width="60" /> 

@@ -1,4 +1,4 @@
-# Hi, I’m Oscar <a href="https://linkedin.com/in/dasilvaoscar" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a>
+# <a href="https://linkedin.com/in/dasilvaoscar" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a> Hi, I’m Oscar
 
 ## 🫆 About me
 

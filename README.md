@@ -1,6 +1,6 @@
 # <a href="https://linkedin.com/in/dasilvaoscar" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a> Hi, I’m Oscar
 
-## 🫆 About me
+## ✦ About me
 
 I actively participate in the business understanding it and helping to improve it by delivering value through technology.
 Writing code is wonderful but architect software and feel the evolution of the teams that I'm in contact with is what I really love.

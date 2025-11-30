@@ -16,19 +16,15 @@ Writing code is wonderful but architect software and feel the evolution of the t
 <a href="https://linkedin.com/in/dasilvaoscar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="40" width="40" /></a>
 </p> -->
 
-## 🔷 Programming Languages
-<!-- <p align="left">
- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS" width="60" height="60"/>
- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="60" height="60"/>
- <img style="margin: auto;" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="80" height="80"/>
-</p> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasilvaoscar&layout=compact&hide=HTML,CSS,SCSS,Less,jupyter%20notebook&theme=calm&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-## ☁️ Cloud
-
-<p align="left"> 
-  <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="amplify" width="80" height="80"/>
+## 🔷 Tech Stack
+<p align="left">
+ <img style="margin: auto;" src="https://github.com/user-attachments/assets/4dab2f11-3a2b-4777-99c1-ad6dfb95d8b6" alt="Golang" width="80" height="80"/>
+ <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/151b373c-81e0-4075-a75b-70311ad5ee39" />
+ <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="amplify" width="80" height="80"/>
+ <!-- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="60" height="60"/> -->
+ <!-- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS" width="60" height="60"/> -->
 </p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasilvaoscar&layout=compact&hide=HTML,CSS,SCSS,Less,jupyter%20notebook&theme=calm&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🗣️ Let's have a chat
 

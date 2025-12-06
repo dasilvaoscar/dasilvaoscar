@@ -19,7 +19,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
 * Invoice system made for [Tera](https://somostera.com)
 * Notification System (email, whatsapp, push) made for [Conta Simples](https://contasimples.com)
 
-> All details of this project are on my Linkedin
+> All details of these projects are on my Linkedin
 
 <!-- ### Add me on Linkedin
 <p align="left">

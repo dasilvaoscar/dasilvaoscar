@@ -17,7 +17,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
 * Payment Gateway migration from Juno to Vindi made for [Tera](https://somostera.com)
 * Education platform made for [Tera](https://somostera.com)
 * Invoice system made for [Tera](https://somostera.com)
-* Notification System (email, whatsapp, push) made for [Conta Simples](https://contasimples.com)
+* Notification system (email, whatsapp, push) made for [Conta Simples](https://contasimples.com)
 
 > All details of these projects are on my Linkedin
 

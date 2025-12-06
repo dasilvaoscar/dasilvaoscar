@@ -13,10 +13,11 @@ Write code is wonderful but architect software and feel the evolution of the tea
 
 ## 💼 Biggest Projects
 
-* Core Banking and ERP System created to [Porto Seguro](https://www.portoseguro.com.br/seguro?utm_source=google-ads&utm_medium=cpc&utm_campaign=multiprodutos_na_brand-torre-seguros_search_aon_conv_hq_gw_gw&utm_content=keyword_serch-torre-seguros_clique-b-venda_automatico_cross_torre-seguros_pesquisa_na_na_t-nao_25mxs01853he&ref=google-ads_25mxs01853he&gad_source=1&gad_campaignid=22766999513&gbraid=0AAAAABaZCQMEatfsUJ_yqU-jbBo27zvNZ&gclid=Cj0KCQiAosrJBhD0ARIsAHebCNrc18I4uJGrUEqYweAIv1mN9WpZNvysNR1WCQPlMCrwRyne8qj7xw0aAn0uEALw_wcB)
+* Core Banking and ERP System created to [Porto Seguro](https://www.portoseguro.com.br/seguro)
 * Payment Gateway migration from Juno to Vindi made for [Tera](https://somostera.com)
-* New education platform made for [Tera](https://somostera.com)
-* New invoice system made for [Tera](https://somostera.com)
+* Education platform made for [Tera](https://somostera.com)
+* Invoice system made for [Tera](https://somostera.com)
+* Notification System (email, whatsapp, push) made for [Conta Simples](https://contasimples.com)
 
 > All details of this project are on my Linkedin
 

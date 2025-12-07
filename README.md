@@ -13,7 +13,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
 
 ## 💼 Biggest Projects
 
-* Core Banking and ERP System created to [Porto Seguro](https://www.portoseguro.com.br/seguro)
+* Core Banking and ERP System made for [Porto Seguro](https://www.portoseguro.com.br/seguro)
 * Payment Gateway migration from Juno to Vindi made for [Tera](https://somostera.com)
 * Education platform made for [Tera](https://somostera.com)
 * Invoice system made for [Tera](https://somostera.com)

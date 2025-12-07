@@ -1,4 +1,4 @@
-# <a href="https://linkedin.com/in/dasilvaoscar" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar" height="25" width="25" /></a> Hi, I’m Oscar
+# Hi, I’m Oscar
 
 ## ✦ About me
 
@@ -39,9 +39,9 @@ Write code is wonderful but architect software and feel the evolution of the tea
 ## 🗣️ Let's have a chat
 
 <div style="display: flex;">
- <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
+ <!-- <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/512px-Google_Meet_icon_%282020%29.svg.png" alt="dasilvaoscar"  width="60" height="60" /> 
- </a>
+ </a> -->
  
  <a href="https://linkedin.com/in/dasilvaoscar" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar"  width="60" height="60" /> 

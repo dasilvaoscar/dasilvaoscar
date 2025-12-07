@@ -31,6 +31,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
  <img style="margin: auto;" src="https://github.com/user-attachments/assets/4dab2f11-3a2b-4777-99c1-ad6dfb95d8b6" alt="Golang" width="60" height="60"/>
  <img alt="image" src="https://github.com/user-attachments/assets/151b373c-81e0-4075-a75b-70311ad5ee39" width="60" height="60" />
  <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="amplify" width="60" height="60"/>
+ <img src="https://img.icons8.com/color/512/google-cloud.png" alt="amplify" width="60" height="60"/>
  <!-- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="60" height="60"/> -->
  <!-- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS" width="60" height="60"/> -->
 </div>

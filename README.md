@@ -37,17 +37,17 @@ Write code is wonderful but architect software and feel the evolution of the tea
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasilvaoscar&layout=compact&hide=HTML,CSS,SCSS,Less,jupyter%20notebook&theme=calm&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)-->
 
-## 🗣️ Let's have a chat
+<!-- ## 🗣️ Let's have a chat
 
 <div style="display: flex;">
- <!-- <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
+ <a href="https://calendly.com/oscarkaka222/new-meeting" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/512px-Google_Meet_icon_%282020%29.svg.png" alt="dasilvaoscar"  width="60" height="60" /> 
- </a> -->
+ </a>
  
  <a href="https://linkedin.com/in/dasilvaoscar" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dasilvaoscar"  width="60" height="60" /> 
  </a>
-</div>
+</div> -->
 
 <!--### Frontend
 <p align="left"> 

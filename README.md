@@ -10,6 +10,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
 * Graduation in **Systems Analysis** by Uninter.
 * MBA degree in **Full-Stack Software Engineering** by FIAP.
 * Post graduation degree in **Software Architecture** by PUC-PR.
+* MBA degree in **Software Engineering with AI**
 
 ## 💼 Biggest Projects
 

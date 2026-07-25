@@ -19,6 +19,7 @@ Write code is wonderful but architect software and feel the evolution of the tea
 * Education platform made for [Tera](https://somostera.com)
 * Invoice system made for [Tera](https://somostera.com)
 * Notification system to send thousands of `email`, `whatsapp`, `push` and `sms` notifications daily made for [Conta Simples](https://contasimples.com)
+* Transaction charge and conference system made for [Conta Simples](https://contasimples.com)
 
 > All details of these projects are on my Linkedin
 
